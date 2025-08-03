@@ -1,0 +1,10 @@
+22:44:52 **** Incremental Build of configuration Debug for project Button_Polling ****
+make -j16 all 
+arm-none-eabi-size  Button_Polling.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7744	     12	   1644	   9400	   24b8	Button_Polling.elf
+Finished building: default.size.stdout
+ 
+
+22:44:52 Build Finished. 0 errors, 0 warnings. (took 410ms)
+
