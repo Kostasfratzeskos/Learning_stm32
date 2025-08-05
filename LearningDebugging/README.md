@@ -22,6 +22,9 @@ to the line where you want to place the breakpoint. Alternativaly, you can right
 Finally, resume your program by pressing F8 or clicking the resume button. Now you can use the debugging controls:
 
  -Step Over (F6): Execute the current line and move to the next one.
+ 
  -Step Into (f5): Enter into function calls.
+ 
  -Step Return : Exit the current function.
+ 
  -You can also monitor variables and registers in the appropriate debugging windows, such as the Variables view, Expressions view, or Live Expressions view.
